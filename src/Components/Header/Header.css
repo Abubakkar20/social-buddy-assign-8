@@ -1,0 +1,13 @@
+.header-container{
+    text-align: center;
+    background:lightgray;
+    color:blue;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-top:20px;
+    text-shadow:2px 5px 3px;
+    font-size: 20px;
+}

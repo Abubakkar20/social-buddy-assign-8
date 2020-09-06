@@ -1,0 +1,17 @@
+.post-container{
+    border: 1px solid lightgray;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background: gray;
+    box-shadow: 5px 5px 10px lightgray;
+}
+Link{
+    color: white;
+    text-decoration: none;
+}
